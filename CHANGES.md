@@ -1,3 +1,8 @@
+## Gript 0.0.57 (08-02-2017)
+
+- Karma packages upgraded to fix random failures when running Karma tests, especially when run on Jenkins/Linux.
+ 
+ 
 ## Gript 0.0.53 (27-06-2016)
 
 - Enabled custom params when starting protractor.
