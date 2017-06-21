@@ -1,6 +1,6 @@
 {
   "name": "gript",
-  "version": "0.0.58",
+  "version": "0.0.60",
   "description": "Gulp Build Setup",
   "dependencies": {
     "@types/angular": "^1.5.19",
