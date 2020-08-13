@@ -67,7 +67,7 @@
     "karma-sinon": "1.0.5",
     "karma-spec-reporter": "0.0.26",
     "license-checker": "5.0",
-    "lodash": "4.3.0",
+    "lodash": "4.17.19",
     "merge-stream": "1.0.0",
     "phantomjs-prebuilt": "2.1.7",
     "protractor": "3.0.0",
