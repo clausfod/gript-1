@@ -7,7 +7,7 @@
     "@types/angular-route": "^1.3.2",
     "@types/angular-translate": "^2.4.33",
     "angular-multimocks": "0.6.8",
-    "bower": "1.8.0",
+    "bower": "1.8.8",
     "bower-license": "0.4.1",
     "cors": "2.7.1",
     "del": "2.2.0",
