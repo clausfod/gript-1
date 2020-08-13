@@ -11,7 +11,7 @@
     "bower-license": "0.4.1",
     "cors": "2.7.1",
     "del": "2.2.0",
-    "eslint": "3.9.1",
+    "eslint": "7.6.0",
     "eslint-plugin-angular": "1.4.1",
     "gulp": "3.9.1",
     "gulp-angular-filesort": "1.1.1",
